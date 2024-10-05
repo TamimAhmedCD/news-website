@@ -75,6 +75,10 @@ nav {
   color: var(--secondary-text-color);
 }
 
+.nav-item.active {
+    color: var(--accent-color);
+}
+
 .hove-link:active {
   color: red;
 }
